@@ -1,3 +1,3 @@
 # Stats-preview-card-component
 
-IN PROGRESS
+completed using html/css
